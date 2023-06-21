@@ -1,4 +1,5 @@
 # Sober Life Solutions
+![image](https://github.com/MERCY12-champ/MERCY12-champ.github.io/assets/81464300/0fa6fe4e-c8f1-46d1-b1ca-80de3ea1843f)
 
 Welcome to the repository for My Website! This website showcases my skills in HTML, CSS, JavaScript, and Bootstrap. You can visit the live version of the website [here](https://mercy12-champ.github.io).
 
